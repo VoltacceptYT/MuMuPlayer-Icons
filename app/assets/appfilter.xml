@@ -16611,6 +16611,9 @@
   <item component="ComponentInfo{air.com.midjiwan.polytopia/com.google.android.archive.ReactivateActivity}" drawable="the_battle_of_polytopia" name="The Battle of Polytopia" />
   <item component="ComponentInfo{air.com.midjiwan.polytopia/com.google.firebase.MessagingUnityPlayerActivity}" drawable="the_battle_of_polytopia" name="The Battle of Polytopia" />
   <item component="ComponentInfo{com.ibillstudio.thedaycouple/com.ibillstudio.thedaycouple.activity.SplashActivity}" drawable="the_couple" name="The Couple" />
+  <item component="ComponentInfo{app.lawnchair.lawnicons/MainActivit.kty}" drawable="the_division_resurgence" name="The Division Resurgence" />
+  <item component="ComponentInfo{app.lawnchair.lawnicons/MainActivity.kt}" drawable="the_division_resurgence" name="The Division Resurgence" />
+  <item component="ComponentInfo{com.ubisoft.the.division.mobile.combat.shooting.open.world.rpg/com.epicgames.ue4.GameActivity}" drawable="the_division_resurgence" name="The Division Resurgence" />
   <item component="ComponentInfo{com.economist.lamarr/com.economist.lamarr.MainActivity}" drawable="the_economist" name="The Economist" />
   <item component="ComponentInfo{com.economist.lamarr/com.economist.lamarr.SplashActivity}" drawable="the_economist" name="The Economist" />
   <item component="ComponentInfo{com.economist.lamarr/com.economist.liskov.feature.main.MainActivity}" drawable="the_economist" name="The Economist" />
